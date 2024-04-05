@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cbarria atm im 38YO
-- 👀 I’m interested in Guitar, Video Games and Coding
-- 🌱 I’m currently learning Docker/Python
-- 💞️ I’m looking to collaborate on anything you might need
+- 👋 Hi, I’m @cbarria atm I'm 40YO
+- 👀 I’m still interested in Guitar, Video Games and Coding.
+- 🌱 I’m currently learning Ruby RSpec Testing and Puppet Modules construction.
+- 💞️ I’m looking to collaborate on some things, if I have time.
 - 📫 How to reach me cbarria@yahoo.com
 
 <!---
